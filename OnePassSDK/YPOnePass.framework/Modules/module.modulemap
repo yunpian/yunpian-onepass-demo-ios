@@ -1,0 +1,6 @@
+framework module YPOnePass {
+  umbrella header "YPOnePass.h"
+
+  export *
+  module * { export * }
+}
